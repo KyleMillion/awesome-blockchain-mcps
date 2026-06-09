@@ -49,6 +49,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[CoinStats MCP](https://github.com/CoinStatsHQ/coinstats-mcp)** – Provides access to cryptocurrency market data, portfolio tracking, and news.
 - **[Octav API MCP](https://github.com/Octav-Labs/octav-api-mcp)** – Multi-chain crypto portfolio tracking MCP server. Access wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains directly from Claude.
 - **[Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp)** - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
+- **[The Stall](https://github.com/thebrierfox/the-stall)** – x402 pay-per-call MCP server with **183 AI data tools** covering DeFi analytics, on-chain data (Base/ETH/BSC), crypto fear/greed index, whale radar, token security scoring, stablecoin watch, EVM log events, transaction explainer, DEX quotes, and social momentum signals. USDC micropayments on Base — no API keys needed. Remote server at [the-stall.intuitek.ai](https://the-stall.intuitek.ai).
 
 ---
 
